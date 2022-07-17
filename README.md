@@ -1,1 +1,3 @@
-# HTML-CSS-JS-Study-make-Instagram-page-
+# HTML-CSS-JS-Study
+
+추후 react로 수정할 계획
